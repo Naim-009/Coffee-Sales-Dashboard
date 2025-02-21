@@ -1,7 +1,7 @@
 # ☕ Coffee Sales Dashboard  
 
 ## 📌 Project Overview  
-This project is an **Excel-based Coffee Sales Dashboard** built using **advanced Excel functions and data visualization techniques**. I started with an **incomplete dataset** downloaded from GitHub https://github.com/Naim-009/Coffee-Sales-Dashboard/blob/main/Cleaned_Coffee_Sales_Data.xlsx, cleaned and structured the data, and created an **interactive dashboard**  that provides insights into coffee sales.  
+This project is an **Excel-based Coffee Sales Dashboard** built using **advanced Excel functions and data visualization techniques**. I started with an **incomplete dataset** downloaded from GitHub , cleaned and structured the data, and created an **interactive dashboard**  that provides insights into coffee sales.  
 
 ---
 
